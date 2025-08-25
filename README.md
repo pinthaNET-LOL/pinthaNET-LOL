@@ -13,7 +13,7 @@ As of 2025, my primary goal is to leverage my knowledge to establish a plentiful
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Homelab Design and Development | <a href="https://google.com">Detection Lab</a>|
-| Active Directory Lab Construction | <a href="https://google.com">Detection Lab</a>|
+| Active Directory Lab Construction | <a href=https://github.com/pinthaNET-LOL/Active-Directory-Homelab/tree/main>Active Directory Homelab</a>|
 | Network Traffic Monitoring and Attack Detection | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
