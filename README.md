@@ -1,4 +1,4 @@
-# Greetings, I'm PinHead!
+# Greetings, I'm PinHead! 📌
 
 ## Beginnings 👋
 
